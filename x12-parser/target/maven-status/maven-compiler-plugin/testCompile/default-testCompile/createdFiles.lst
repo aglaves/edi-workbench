@@ -1,0 +1,4 @@
+io\lunaver\edi\parser\x12\BufferedX12ParserGSFunctionalGroupsTest.class
+io\lunaver\edi\parser\x12\BufferedX12ParserSTTransactionSetTest.class
+io\lunaver\edi\parser\x12\BufferedX12ParserISAEnvelopeTest.class
+io\lunaver\edi\parser\x12\BufferedX12ParserGenericSegmentTest.class

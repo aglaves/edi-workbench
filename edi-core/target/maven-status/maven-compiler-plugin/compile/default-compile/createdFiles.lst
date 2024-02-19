@@ -1,0 +1,14 @@
+io\lunaver\edi\document\x12\GenericSegment.class
+io\lunaver\edi\document\x12\IEASegment.class
+io\lunaver\edi\document\x12\Segment.class
+io\lunaver\edi\document\x12\ISAEnvelopeSegment.class
+io\lunaver\edi\document\x12\GSFunctionalGroupSegment.class
+io\lunaver\edi\document\anomoly\Anomaly.class
+io\lunaver\edi\document\x12\GESegment.class
+io\lunaver\edi\parser\exception\MissingParameterException.class
+io\lunaver\edi\parser\exception\ParsingException.class
+io\lunaver\edi\document\x12\STTransactionSetSegment.class
+io\lunaver\edi\document\x12\X12Document.class
+io\lunaver\edi\document\EDIDocument.class
+io\lunaver\edi\parser\EDIDocumentParser.class
+io\lunaver\edi\document\x12\SESegment.class
