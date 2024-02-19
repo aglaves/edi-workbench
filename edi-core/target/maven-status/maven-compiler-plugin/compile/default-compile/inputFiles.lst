@@ -1,0 +1,14 @@
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\ISAEnvelopeSegment.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\GenericSegment.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\X12Document.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\GESegment.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\SESegment.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\anomoly\Anomaly.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\parser\exception\ParsingException.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\IEASegment.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\Segment.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\parser\EDIDocumentParser.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\STTransactionSetSegment.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\parser\exception\MissingParameterException.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\EDIDocument.java
+C:\Users\Austin\Documents\workspace\edi-workbench\edi-core\src\main\java\io\lunaver\edi\document\x12\GSFunctionalGroupSegment.java

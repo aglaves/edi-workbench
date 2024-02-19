@@ -1,0 +1,10 @@
+io\lunaver\edi\parser\x12\anomaly\GSParsingAnomaly.class
+io\lunaver\edi\parser\x12\GSLineParser.class
+io\lunaver\edi\parser\x12\GenericX12Document.class
+io\lunaver\edi\parser\x12\anomaly\ISAParsingAnomaly.class
+io\lunaver\edi\parser\x12\anomaly\STParsingAnomaly.class
+io\lunaver\edi\parser\x12\X12Parser.class
+io\lunaver\edi\parser\x12\STLineParser.class
+io\lunaver\edi\parser\x12\ISALineParser.class
+io\lunaver\edi\parser\x12\BufferedX12Parser.class
+io\lunaver\edi\parser\x12\GenericSegmentParser.class
